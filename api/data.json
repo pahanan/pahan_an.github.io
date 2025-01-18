@@ -4,26 +4,26 @@
     "title": "Glögg",
     "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gl%C3%B6gg_kastrull.JPG/800px-Gl%C3%B6gg_kastrull.JPG",
     "ingredients": [
-      { "name": "Orange zest", "amount": "0.5" },
+      { "name": "Orange Zest", "amount": "0.5" },
       { "name": "Water", "amount": "200 ml" },
       { "name": "Sugar", "amount": "275 g" },
-      { "name": "Whole cloves", "amount": "5" },
-      { "name": "Cinnamon sticks", "amount": "2" }
+      { "name": "Whole Cloves", "amount": "5" },
+      { "name": "Cinnamon Sticks", "amount": "2" }
     ],
     "description": "Mix everything, heat it, and you are good to go!"
   },
   {
     "id": 2,
-    "title": "Crab salad",
+    "title": "Crab Salad",
     "picture_url": "https://img.iamcook.ru/2020/upl/recipes/cat/u-0e39647715eef84fcd286a52c4db259b.JPG",
     "ingredients": [
-      { "name": "crab meat", "amount": "1 pound" },
-      { "name": "2 ribs", "amount": "celery" },
-      { "name": "mayonnaise", "amount": "1 tablespoon" },
-      { "name": "lemon juice", "amount": "5" },
-      { "name": "kosher salt", "amount": "1/4 teaspoon" },
-      { "name": "finely diced shallot", "amount": "2 tablespoons" },
-      { "name": "roughly chopped fresh herbs", "amount": "1 tablespoon" }
+      { "name": "Crab Meat", "amount": "1 pound" },
+      { "name": "Celery", "amount": "2 ribs" },
+      { "name": "Mayonnaise", "amount": "1 tablespoon" },
+      { "name": "Lemon Juice", "amount": "5" },
+      { "name": "Kosher Salt", "amount": "1/4 teaspoon" },
+      { "name": "Finely Diced Shallot", "amount": "2 tablespoons" },
+      { "name": "Roughly Chopped Fresh Herbs", "amount": "1 tablespoon" }
     ],
     "description": "Crab salad is one of the best ways to enjoy crab meat. It’s super easy to make and a meal you’ll love for the summer season. All you need are crab meat (I’ve got options), crisp vegetables, fresh herbs, and a creamy lemon dressing that ties it all together."
   },
@@ -32,14 +32,14 @@
     "title": "Borscht Recipe",
     "picture_url": "https://vikalinka.com/wp-content/uploads/2019/01/Borscht-10-Edit-320x320.jpg",
     "ingredients": [
-      { "name": "cold water", "amount": "3 litres" },
-      { "name": "pork ribs or beef attached to a bone", "amount": "600g" },
-      { "name": "onion", "amount": "1/2" },
-      { "name": "carrot", "amount": "1" },
-      { "name": "celery sticks", "amount": "2" },
-      { "name": "bay leaves", "amount": "2" },
-      { "name": "peppercorns", "amount": "2" },
-      { "name": "salt", "amount": "1 tsp" }
+      { "name": "Cold Water", "amount": "3 litres" },
+      { "name": "Pork Ribs or Beef Attached to a Bone", "amount": "600g" },
+      { "name": "Onion", "amount": "1/2" },
+      { "name": "Carrot", "amount": "1" },
+      { "name": "Celery Sticks", "amount": "2" },
+      { "name": "Bay Leaves", "amount": "2" },
+      { "name": "Peppercorns", "amount": "2" },
+      { "name": "Salt", "amount": "1 tsp" }
     ],
     "description": "Ukrainian borscht recipe. A rich meat based broth with beets, cabbage, potatoes and carrots served with a dollop of sour cream."
   }
