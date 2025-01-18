@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Glögg",
+    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gl%C3%B6gg_kastrull.JPG/800px-Gl%C3%B6gg_kastrull.JPG",
+    "ingredients": [
+      { "name": "Orange zest", "amount": "0.5" },
+      { "name": "Water", "amount": "200 ml" },
+      { "name": "Sugar", "amount": "275 g" },
+      { "name": "Whole cloves", "amount": "5" },
+      { "name": "Cinnamon sticks", "amount": "2" }
+    ],
+    "description": "Mix everything, heat it, and you are good to go!"
+  },
+  {
+    "id": 2,
+    "title": "Crab salad",
+    "picture_url": "https://img.iamcook.ru/2020/upl/recipes/cat/u-0e39647715eef84fcd286a52c4db259b.JPG",
+    "ingredients": [
+      { "name": "crab meat", "amount": "1 pound" },
+      { "name": "2 ribs", "amount": "celery" },
+      { "name": "mayonnaise", "amount": "1 tablespoon" },
+      { "name": "lemon juice", "amount": "5" },
+      { "name": "kosher salt", "amount": "1/4 teaspoon" },
+      { "name": "finely diced shallot", "amount": "2 tablespoons" },
+      { "name": "roughly chopped fresh herbs", "amount": "1 tablespoon" }
+    ],
+    "description": "Crab salad is one of the best ways to enjoy crab meat. It’s super easy to make and a meal you’ll love for the summer season. All you need are crab meat (I’ve got options), crisp vegetables, fresh herbs, and a creamy lemon dressing that ties it all together."
+  },
+  {
+    "id": 3,
+    "title": "Borscht Recipe",
+    "picture_url": "https://vikalinka.com/wp-content/uploads/2019/01/Borscht-10-Edit-320x320.jpg",
+    "ingredients": [
+      { "name": "cold water", "amount": "3 litres" },
+      { "name": "pork ribs or beef attached to a bone", "amount": "600g" },
+      { "name": "onion", "amount": "1/2" },
+      { "name": "carrot", "amount": "1" },
+      { "name": "celery sticks", "amount": "2" },
+      { "name": "bay leaves", "amount": "2" },
+      { "name": "peppercorns", "amount": "2" },
+      { "name": "salt", "amount": "1 tsp" }
+    ],
+    "description": "Ukrainian borscht recipe. A rich meat based broth with beets, cabbage, potatoes and carrots served with a dollop of sour cream."
+  }
+]
