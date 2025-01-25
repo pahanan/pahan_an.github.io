@@ -46,7 +46,7 @@
   {
     "id": 4,
     "title": "Pancakes",
-    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Blueberry_pancakes_%28cropped%29.jpg",
+    "picture_url": "https://www.allrecipes.com/thmb/hB7uGW06pqyk6hApOfGxk5kG4SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21014-Good-old-Fashioned-Pancakes-mfs_001-1-8fc3e06998fe4fe8b5f2ad6ba7e8ad46.jpg",
     "ingredients": [
       { "name": "Flour", "amount": "1 cup" },
       { "name": "Milk", "amount": "1 cup" },
@@ -61,7 +61,7 @@
   {
     "id": 5,
     "title": "Chicken Soup",
-    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Chicken_soup_with_bread.jpg",
+    "picture_url": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/10/Chicken-Soup-main-2.jpg",
     "ingredients": [
       { "name": "Chicken", "amount": "500g" },
       { "name": "Carrot", "amount": "2" },
@@ -76,7 +76,7 @@
   {
     "id": 6,
     "title": "Spaghetti Bolognese",
-    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spaghetti_bolognese_%28cropped%29.jpg/800px-Spaghetti_bolognese_%28cropped%29.jpg",
+    "picture_url": "https://images.ctfassets.net/uexfe9h31g3m/6QtnhruEFi8qgEyYAICkyS/ab01e9b1da656f35dd1a721c810162a0/Spaghetti_bolognese_4x3_V2_LOW_RES.jpg?w=2000&h=1125&fm=webp&fit=thumb&q=100",
     "ingredients": [
       { "name": "Spaghetti", "amount": "300g" },
       { "name": "Ground Beef", "amount": "400g" },
@@ -91,7 +91,7 @@
   {
     "id": 7,
     "title": "Caesar Salad",
-    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Caesar_salad_%281%29.jpg",
+    "picture_url": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/caesar-salad.jpg",
     "ingredients": [
       { "name": "Romaine Lettuce", "amount": "1 head" },
       { "name": "Caesar Dressing", "amount": "1/2 cup" },
@@ -104,7 +104,7 @@
   {
     "id": 8,
     "title": "Guacamole",
-    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Guacamole_-_Evan_Swigart.jpg/800px-Guacamole_-_Evan_Swigart.jpg",
+    "picture_url": "https://www.allrecipes.com/thmb/FOHqtfrZVg0WAMdkFE3bnp7SNO4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-RM-14064-easy-guacamole-ddmfs-3x4-9e4a1eb1bb34421a99db675b53a29e53.jpg",
     "ingredients": [
       { "name": "Avocado", "amount": "3" },
       { "name": "Lime Juice", "amount": "2 tablespoons" },
@@ -118,7 +118,7 @@
   {
     "id": 9,
     "title": "French Toast",
-    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/French_toast_%28cropped%29.jpg/800px-French_toast_%28cropped%29.jpg",
+    "picture_url": "https://cdn.loveandlemons.com/wp-content/uploads/2024/08/french-toast-recipe.jpg",
     "ingredients": [
       { "name": "Bread Slices", "amount": "4" },
       { "name": "Eggs", "amount": "2" },
