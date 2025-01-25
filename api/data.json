@@ -42,5 +42,91 @@
       { "name": "Salt", "amount": "1 tsp" }
     ],
     "description": "Ukrainian borscht recipe. A rich meat based broth with beets, cabbage, potatoes and carrots served with a dollop of sour cream."
+  },
+  {
+    "id": 4,
+    "title": "Pancakes",
+    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Blueberry_pancakes_%28cropped%29.jpg",
+    "ingredients": [
+      { "name": "Flour", "amount": "1 cup" },
+      { "name": "Milk", "amount": "1 cup" },
+      { "name": "Egg", "amount": "1" },
+      { "name": "Butter", "amount": "2 tablespoons" },
+      { "name": "Sugar", "amount": "1 tablespoon" },
+      { "name": "Baking Powder", "amount": "1 teaspoon" },
+      { "name": "Salt", "amount": "1/2 teaspoon" }
+    ],
+    "description": "Mix all ingredients together, cook on a hot griddle, and serve with your favorite toppings!"
+  },
+  {
+    "id": 5,
+    "title": "Chicken Soup",
+    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Chicken_soup_with_bread.jpg",
+    "ingredients": [
+      { "name": "Chicken", "amount": "500g" },
+      { "name": "Carrot", "amount": "2" },
+      { "name": "Celery", "amount": "3 sticks" },
+      { "name": "Onion", "amount": "1" },
+      { "name": "Salt", "amount": "1 tsp" },
+      { "name": "Pepper", "amount": "1/2 tsp" },
+      { "name": "Noodles", "amount": "100g" }
+    ],
+    "description": "Simmer chicken and vegetables together, add noodles at the end, and enjoy a comforting bowl of soup."
+  },
+  {
+    "id": 6,
+    "title": "Spaghetti Bolognese",
+    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spaghetti_bolognese_%28cropped%29.jpg/800px-Spaghetti_bolognese_%28cropped%29.jpg",
+    "ingredients": [
+      { "name": "Spaghetti", "amount": "300g" },
+      { "name": "Ground Beef", "amount": "400g" },
+      { "name": "Tomato Sauce", "amount": "500ml" },
+      { "name": "Onion", "amount": "1" },
+      { "name": "Garlic", "amount": "2 cloves" },
+      { "name": "Olive Oil", "amount": "2 tablespoons" },
+      { "name": "Salt and Pepper", "amount": "to taste" }
+    ],
+    "description": "Cook spaghetti, prepare the Bolognese sauce, and mix them together for a delicious Italian classic."
+  },
+  {
+    "id": 7,
+    "title": "Caesar Salad",
+    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Caesar_salad_%281%29.jpg",
+    "ingredients": [
+      { "name": "Romaine Lettuce", "amount": "1 head" },
+      { "name": "Caesar Dressing", "amount": "1/2 cup" },
+      { "name": "Croutons", "amount": "1 cup" },
+      { "name": "Parmesan Cheese", "amount": "1/4 cup" },
+      { "name": "Chicken Breast", "amount": "200g (optional)" }
+    ],
+    "description": "Toss lettuce with Caesar dressing, top with croutons, Parmesan, and optional grilled chicken for a classic salad."
+  },
+  {
+    "id": 8,
+    "title": "Guacamole",
+    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Guacamole_-_Evan_Swigart.jpg/800px-Guacamole_-_Evan_Swigart.jpg",
+    "ingredients": [
+      { "name": "Avocado", "amount": "3" },
+      { "name": "Lime Juice", "amount": "2 tablespoons" },
+      { "name": "Salt", "amount": "1/2 tsp" },
+      { "name": "Onion", "amount": "1/4 cup, diced" },
+      { "name": "Tomato", "amount": "1/2 cup, diced" },
+      { "name": "Cilantro", "amount": "2 tablespoons, chopped" }
+    ],
+    "description": "Mash avocados and mix with lime juice, salt, onion, tomato, and cilantro for a fresh guacamole dip."
+  },
+  {
+    "id": 9,
+    "title": "French Toast",
+    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/French_toast_%28cropped%29.jpg/800px-French_toast_%28cropped%29.jpg",
+    "ingredients": [
+      { "name": "Bread Slices", "amount": "4" },
+      { "name": "Eggs", "amount": "2" },
+      { "name": "Milk", "amount": "1/2 cup" },
+      { "name": "Sugar", "amount": "1 tablespoon" },
+      { "name": "Cinnamon", "amount": "1/2 teaspoon" },
+      { "name": "Butter", "amount": "2 tablespoons" }
+    ],
+    "description": "Dip bread in a mixture of eggs, milk, sugar, and cinnamon, then cook on a hot skillet until golden brown."
   }
 ]
